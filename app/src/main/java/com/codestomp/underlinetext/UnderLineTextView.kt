@@ -1,4 +1,4 @@
-package com.codestomp.underlinetextview
+package com.codestomp.underlinetext
 
 
 import android.content.Context
